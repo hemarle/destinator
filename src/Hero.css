@@ -1,4 +1,27 @@
-.hero{
-    min-height: 100vh;
-    background: var(--black);
+.hero {
+  background-color: var(--black);
+  padding: 100px 5vw;
+
+  position: relative;
+}
+
+.hero__Content {
+  position: absolute;
+  bottom: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  color: white;
+  width: max-content;
+}
+.hero h4 {
+  margin-bottom: 10px;
+}
+.hero a {
+  display: block;
+  width: max-content;
+  margin: 0px auto;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
 }
