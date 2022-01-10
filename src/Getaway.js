@@ -61,6 +61,128 @@ function Getaway() {
           <p>Phoenix</p>
           <p>Arizona</p>
         </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+        <div className="getaway__Content">
+          <p>Phoenix</p>
+          <p>Arizona</p>
+        </div>
+      
+      
       </div>
     </div>
   );

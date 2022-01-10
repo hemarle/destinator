@@ -18,5 +18,25 @@ font-size: small;
       display: block;
       width: max-content;
       margin-inline: auto;
+      margin-top: -150px;
+    }
+    .modal__Card img{
+      max-height: 500px;
+    }
+    .modal__Content{
+      font-size: inherit;
+      bottom: 20%;
+      width: max-content;
+      text-align: center;
+    }
+    .modal__Content h1{
+      font-size: 2rem;
+    }
+    .modal__Content h2{
+      font-size: 1.8rem;
+      
+    }
+    .modal__Content h3{
+font-size: 1.6rem;
     }
   }

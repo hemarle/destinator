@@ -4,21 +4,23 @@
 @media screen and (min-width: 768px) {
   .getaway {
     display: block;
-    padding: 20px 50px;
+    padding: 20px 50px 50px;
   }
   .getaway__Options {
     display: flex;
     justify-content: space-between;
-    margin: 20px;
+    margin: 30px 20px;
   }
   .getaway__Option {
     padding-bottom: 10px;
     border-bottom: 1px solid gray;
-  }
+margin-right: 10px;
+}
   .getaway__Contents{
       display: flex;
       justify-content: space-around;
       flex-wrap: wrap;
+     
   }
   .getaway__Content{
       margin: 20px;
