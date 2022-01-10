@@ -1,8 +1,26 @@
-.getaway{
-    display: none;
+.getaway {
+  display: none;
 }
-@media screen and (min-width:768px) {
-    .getaway{
-        display: block;
-    }
+@media screen and (min-width: 768px) {
+  .getaway {
+    display: block;
+    padding: 20px 50px;
+  }
+  .getaway__Options {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  .getaway__Option {
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+  }
+  .getaway__Contents{
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+  .getaway__Content{
+      margin: 20px;
+  }
 }
