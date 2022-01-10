@@ -13,3 +13,10 @@ transform: translateX(-60%);
 padding-bottom: 10px;
 font-size: small;
 }
+@media screen and (min-width:1440px) {
+    .modal__Card{
+      display: block;
+      width: max-content;
+      margin-inline: auto;
+    }
+  }

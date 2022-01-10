@@ -1,0 +1,27 @@
+.inspiration{
+    padding: 20px;
+}
+.inspiration h2{
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+.inspiration__Cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+.inspiration__Card{
+
+    max-width: 200px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: tomato;
+    
+    border-radius: 10px;
+}
+
+.inspiration__Card img{
+    border-radius: 10px;
+
+}
